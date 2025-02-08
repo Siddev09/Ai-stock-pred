@@ -6,4 +6,3 @@ npm start
 ```
 TO TRY = https://8aa44044.ai-stock-pred.pages.dev/
 
-Happy Coding!
